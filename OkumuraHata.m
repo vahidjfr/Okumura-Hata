@@ -1,8 +1,8 @@
 function LP=OkumuraHata(fc,hb,hm,d,flag, city_size)
 
-%MODELLO OKUMURA-HATA
+%MODELL OKUMURA-HATA
 
-%fc-> frequenza (MHZ) 150-1500 MHZ
+%fc-> frquency (MHZ) 150-1500 MHZ
 %hb-> altezza (m) dell'antenna in trasmissione 30-200 m
 %hm-> altezza (m) dell'antenna in ricezione 1-10 m
 %d-> distaza Tx-Rx (Km) 1-100 Km
